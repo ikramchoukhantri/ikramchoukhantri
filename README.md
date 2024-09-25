@@ -46,7 +46,18 @@
 
 ### 📊 My GitHub Stats:
 
-![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramchoukhantri&show_icons=true&theme=graywhite)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramchoukhantri&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ikramchoukhantri&show_icons=true&theme=default" alt="Ikram's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramchoukhantri&layout=compact&theme=default" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
