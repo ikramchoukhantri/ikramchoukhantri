@@ -16,10 +16,11 @@
   <a href="https://linkedin.com/in/ikram-choukhantri" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  <a href="https://ikramchoukhantri.github.io/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio Website" width="40" height="40"/>
   </a>
 </div>
+
 
 
 
@@ -62,8 +63,9 @@
 
   <!-- Visualization Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/kibana.svg" alt="Kibana" width="40" height="40"/>
-  <img src="https://download.logo.wine/logo/Microsoft_Power_BI/Microsoft_Power_BI-Logo.wine.png" alt="Power BI" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+
 
 
   <!-- Operating Systems -->
