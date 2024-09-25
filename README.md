@@ -2,7 +2,7 @@
 
 ### Business Intelligence & Analytics Student @ENSIAS
 
-- 🌱 I’m currently learning **Data Warehousing**, and **Data Engennering**
+- 🌱 I’m currently learning **Data Warehousing**, and **Data Engineering**
 - 👨‍💻 Ask me about **Python, BI, Data Analysis, Machine Learning, Deep Learning**
 - 📫 How to reach me: [ikramchoukhantri@gmail.com](mailto:ikramchoukhantri@gmail.com)
 - ⚡ Fun fact: *Why did the data scientist break up with the database? Because it had too many relationships!*
@@ -31,6 +31,7 @@
 
 ### 📊 My GitHub Stats:
 
-![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramchoukhantri&show_icons=true&theme=radical)
+![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramchoukhantri&show_icons=true&theme=graywhite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramchoukhantri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramchoukhantri&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
