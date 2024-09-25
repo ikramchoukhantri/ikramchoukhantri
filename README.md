@@ -1,8 +1,8 @@
 # Hi 👋, I'm Ikram Choukhantri
 
-### Data Science & Business Intelligence Engineering Student
+### Business Intelligence & Analytics Student @ENSIAS
 
-- 🌱 I’m currently learning **LLM**, **GNN**, **Data Warehousing**, and **Apache Airflow**
+- 🌱 I’m currently learning **Data Warehousing**, and **Data Engennering**
 - 👨‍💻 Ask me about **Python, BI, Data Analysis, Machine Learning, Deep Learning**
 - 📫 How to reach me: [ikramchoukhantri@gmail.com](mailto:ikramchoukhantri@gmail.com)
 - ⚡ Fun fact: *Why did the data scientist break up with the database? Because it had too many relationships!*
