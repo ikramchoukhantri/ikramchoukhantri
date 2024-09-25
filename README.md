@@ -57,12 +57,13 @@
 
   <!-- Big Data Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" alt="Apache Spark" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="Apache Spark" width="40" height="40"/>
 
   <!-- Visualization Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tableau_Software_logo.svg/768px-Tableau_Software_logo.svg.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/kibana.svg" alt="Kibana" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+
 
   <!-- Operating Systems -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
