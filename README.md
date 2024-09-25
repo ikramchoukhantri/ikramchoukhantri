@@ -1,6 +1,7 @@
-# Hi 👋, I'm Ikram Choukhantri
+<h1 align="center">Hi 👋, I'm Ikram Choukhantri</h1>
 
-### Business Intelligence & Analytics Student @ENSIAS
+<h3 align="center">Business Intelligence & Analytics Student @ENSIAS</h3>
+
 
 - 🌱 I’m currently learning **Data Warehousing**, and **Data Engineering**
 - 👨‍💻 Ask me about **Python, BI, Data Analysis, Machine Learning, Deep Learning**
