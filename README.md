@@ -62,7 +62,7 @@
   <!-- Visualization Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/kibana.svg" alt="Kibana" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://download.logo.wine/logo/Microsoft_Power_BI/Microsoft_Power_BI-Logo.wine.png" alt="Power BI" width="40" height="40"/>
 
 
   <!-- Operating Systems -->
